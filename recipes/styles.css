@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#title {
+    font-weight: bold;
+}
+
+.image {
+    height:auto;
+    width: 200px;
+}
