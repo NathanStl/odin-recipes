@@ -1,12 +1,36 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+
+
 }
 
-#title {
+h1 {
     font-weight: bold;
 }
 
 .image {
     height:auto;
     width: 200px;
+    align-content: center;
+}
+
+h2 {
+    
+}
+
+.list {
+    background-color: rgb(60, 255, 70);
+}
+
+.list.ingredients {
+    color: blue;
+}
+
+.list.steps {
+    color: rgb(48, 28, 66)
+}
+
+#recipe-link {
+    font-size: 20px;
+    font-weight: bold;
 }
